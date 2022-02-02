@@ -1,1 +1,1 @@
-# iBlog
+HTML-CSS-JS Mini Projects
